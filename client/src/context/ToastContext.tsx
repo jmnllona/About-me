@@ -29,7 +29,7 @@ export function ToastProvider({ children }: { children: React.ReactNode }) {
             {children}
 
             {message && (
-                <div className="fixed bottom-6 left-1/2 z-50 -translate-x-1/2">
+                <div className="fixed bottom-6 right-20 z-50 right move it below">
                     <div className="rounded-lg border border-stone-700 bg-amber-50 px-5 py-3 text-sm text-black shadow-lg">
                         {message}
                     </div>

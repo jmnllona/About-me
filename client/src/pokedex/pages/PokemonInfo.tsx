@@ -49,7 +49,7 @@ export default function PokemonInfoPage() {
                                     </Link>
                               )}
                               <Link
-                                    to="/hobbies/games/pokedex/"
+                                    to="/hobbies/games/pokedex"
                                     className="py-0.5 px-4  border border-stone-700 bg-stone-800 text-white rounded">
                                     X
                               </Link>

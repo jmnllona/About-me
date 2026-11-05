@@ -9,7 +9,7 @@ const getPokemonId = (id: number) => String(id).padStart(3, "0");
 
 export default function Grid({ data }: { data: Pokemon[] }) {
       return (
-            <div className={`grid grid-cols-2  gap-[2.4px]  md:grid-cols-4 lg:grid-cols-7`}>
+            <div className={`flex flex-col md:grid grid-cols-2  gap-1  md:grid-cols-4 lg:grid-cols-7`}>
                   {data.length === 0 ? (
                         <div className={`col-span-full p-3 py-10 text-center text-white hover:bg-amber-100/75 flex gap-2 justify-center`}>
                             <FileWarning/> Pokemon not found ?? huhh
@@ -20,7 +20,7 @@ export default function Grid({ data }: { data: Pokemon[] }) {
                                     key={pokemon.id}
                                     to={`/hobbies/games/pokedex/${pokemon.id}`}
                                     className={`
-                                     flex min-w-0 w-full h-[190px] flex-col items-center justify-center gap-2 border-b  border-r border-stone-700 text-white  text-xs font-semibold duration-300  bg-stone-800  hover:bg-white
+                                     flex min-w-0 w-full md:h-[190px] md:flex-col items-center justify-center gap-2 border border-stone-700 text-white  text-xs font-semibold duration-300  bg-stone-800  hover:bg-white
                                       p-4 text-center  transition 
                                     `}>
                                     <span className=" text-white/60  font-normal">#{getPokemonId(pokemon.id)}</span>

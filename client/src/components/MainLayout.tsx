@@ -1,31 +1,18 @@
 import { Outlet } from "react-router-dom";
-import Sidebar from "./SideBar";
+import MainSidebar from "./MainSideBar";
 
+import MainHeader from "./MainHeader";
 
-export default function MainLayout(){
+export default function MainLayout() {
+      return (
+            <>
+                  <MainSidebar></MainSidebar>
 
-return(
+                  <main className="md:ml-64 ">
+                        <MainHeader></MainHeader>
 
-    <>
-
-    
-<Sidebar></Sidebar>
-
-    
-    <main className="md:ml-64 ">
-
-
-        <Outlet/>
-    </main>
-    
-    
-    
-    </>
-
-
-
-
-)
-
-
+                        <Outlet />
+                  </main>
+            </>
+      );
 }

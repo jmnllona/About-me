@@ -15,7 +15,7 @@ import {
 import NavLink from "./NavLink";
 import { useAuth } from "../auth/AuthContext";
 
-export default function Sidebar() {
+export default function MainSidebar() {
       const [isHobbiesOpen, setIsHobbiesOpen] = useState(false);
       const [isGamesOpen, setIsGamesOpen] = useState(false);
       const { user, loading, logout } = useAuth();
@@ -23,8 +23,8 @@ export default function Sidebar() {
       const subLinkStyle = "flex items-center gap-1.5 rounded-lg px-2 py-1  hover:bg-stone-transition-colors";
 
       return (
-            <aside className="fixed left-0 top-0 hidden h-screen w-64 border-r border-stone-700 bg-stone-800 p-6 md:block">
-                  <nav className="flex h-full flex-col gap-3 text-xs font-semibold">
+            <aside className="fixed left-0 top-0 hidden h-screen w-64 border-r border-stone-700 bg-stone-800 p-6 md:flex  ">
+                  <nav className="flex  flex-col gap-3 text-xs font-semibold mt-20 flex-1">
                         {/* Home */}
                         <NavLink to="/" className={subLinkStyle} end>
                               <House size={15} strokeWidth={1.5} />
@@ -114,7 +114,7 @@ export default function Sidebar() {
                         </NavLink>
 
                         {/* Footer */}
-                        <div className="mt-auto pb-10">
+                        <div className="mt-auto mb-3  ">
                               <p className="mb-3 px-3 text-xs font-normal uppercase tracking-widest text-stone-500">
                                     Explore
                               </p>

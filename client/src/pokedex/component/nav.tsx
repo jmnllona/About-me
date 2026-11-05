@@ -10,7 +10,7 @@ export default function Nav() {
                 to="/hobbies/games/pokedex"
                 end
                 className={({ isActive }) =>
-                    `group flex items-center gap-2 border p-2 transition-colors text-sm w-full max-w-[150px] ${
+                    `group flex items-center gap-2 border p-2 py-1 transition-colors text-sm w-full max-w-[150px] ${
                         isActive
                             ? "bg-stone-300 border-stone-300 text-stone-900"
                             : "bg-stone-800 border-stone-700 text-white"
@@ -49,7 +49,7 @@ export default function Nav() {
                 to="/hobbies/games/pokedex/roms"
                 end
                 className={({ isActive }) =>
-                    `group flex items-center gap-2 border p-2 transition-colors text-sm w-full max-w-[150px] ${
+                    `group flex items-center gap-2 border p-2 py-1 transition-colors text-sm w-full max-w-[150px] ${
                         isActive
                             ? "bg-stone-300 border-stone-300 text-stone-900"
                             : "bg-stone-800 border-stone-700 text-white"

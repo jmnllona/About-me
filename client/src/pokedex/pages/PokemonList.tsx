@@ -3,9 +3,12 @@ import Grid from "../component/Grid";
 import { types } from "../data/pokedex_constants";
 import { usePokedexContext } from "../context/PokedexContext";
 import { Nav } from "../component/index";
+import { useToast } from "../../context/ToastContext";
+ 
 
 export default function PokemonListPage() {
       const { pokemonData } = usePokedexContext();
+        const  {showToast} = useToast();
 
       const [search, setSearch] = useState("");
       const [selectedType, setSelectedType] = useState("");
@@ -28,14 +31,15 @@ export default function PokemonListPage() {
 
       const handleClick = () => {
             setItemCount((prev) => Math.min(prev + 49, filteredMons.length));
+              showToast("Loaded 45 more hihi");
       };
 
 
 
       return (
-            <div  className="w-full max-w-6xl mx-auto px-2 py-16 md:px-6 ">
+            <div  className="w-full mx-auto px-2 py-16 md:px-10 ">
             <Nav></Nav>
-                  <header className="flex mt-6 mb-5  items-center bg-stone-960/60  backdrop-blur-md  sticky top-0 bg-stone-900 z-20">
+                  <header className="flex mt-6   items-center bg-stone-960/60 py-2  backdrop-blur-md  sticky top-12 bg-stone-900 z-20 ">
                         <h1 className="text-4xl tracking-tight text-white">Pokédex</h1>
 
                         <div className="relative ml-auto ">
@@ -47,7 +51,7 @@ export default function PokemonListPage() {
                                           value={search}
                                           onChange={(e)=>setSearch(e.target.value)}
                                           placeholder="e.g. pikachu"
-                                          className="w-full max-w-[200px] rounded-md border border-stone-600 bg-stone-800 px-5 py-1.5 text-xs text-white outline-none placeholder:text-stone-400 focus:border-cyan-500"
+                                          className="w-full max-w-[200px] border border-stone-600 bg-stone-800 px-5 py-1.5 text-xs text-white outline-none placeholder:text-stone-400 focus:border-cyan-500"
                                     />
 
                                     {[selectedType, selectedType2].map((type, index) => (
@@ -59,7 +63,7 @@ export default function PokemonListPage() {
                                                             ? setSelectedType(e.target.value)
                                                             : setSelectedType2(e.target.value)
                                                 }
-                                                className="w-24 min-w-0 rounded-md border border-stone-600 bg-stone-800 px-3 py-1.5 text-xs text-stone-300 outline-none">
+                                                className="w-24 min-w-0  border border-stone-600 bg-stone-800 px-3 py-1.5 text-xs text-stone-300 outline-none">
                                                 <option value="">none</option>
                                                 {Object.keys(types).map((type) => (
                                                       <option key={type} value={type}>
@@ -115,7 +119,7 @@ export default function PokemonListPage() {
                         </div>
                   </header>
 
-                  <div className="w-full  space-y-4 mb-16 ">
+                  <div className="w-full  space-y-4 ">
                         <h2 className="text-sm font-semibold text-stone-400 ">Gen 1 - Gen 5</h2>
                         <Grid data={currentMons} />
 

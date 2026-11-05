@@ -1,5 +1,6 @@
 import { ExternalLink } from "lucide-react";
 
+
 const playlists = [
       {
             lang: "EN",
@@ -78,6 +79,8 @@ const topArtists = [
 ];
 
 export default function MusicPage() {
+
+   
       return (
             <div className="mx-auto flex max-w-4xl flex-col gap-8 p-2  text-white md:p-10">
                   {/* <header className="flex flex-col gap-3 border-b border-stone-700 pb-6">

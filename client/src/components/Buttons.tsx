@@ -10,7 +10,7 @@ interface MusicButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement>
 }
 
 export const MusicButton: React.FC<MusicButtonProps> = ({
-  musicname = "../bg1.mp3",
+  musicname = "/music/bg1.mp3",
   children,
   className,           // allow extra custom classes
   ...props }) => {
