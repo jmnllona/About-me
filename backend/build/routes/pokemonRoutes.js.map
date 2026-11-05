@@ -1,0 +1,1 @@
+{"version":3,"file":"pokemonRoutes.js","sourceRoot":"","sources":["../../src/routes/pokemonRoutes.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,SAAS,CAAC;AAEjC,OAAO,EAAE,cAAc,EAAG,eAAe,EAAE,MAAM,qCAAqC,CAAA;AAEtF,MAAM,MAAM,GAAG,MAAM,EAAE,CAAC;AAGxB,MAAM,CAAC,GAAG,CAAC,WAAW,EAAE,cAAc,CAAC,CAAA;AAEvC,MAAM,CAAC,IAAI,CAAC,qBAAqB,EAAE,eAAe,CAAC,CAAA;AAInD,eAAe,MAAM,CAAC"}

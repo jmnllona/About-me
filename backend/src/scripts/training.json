@@ -1,0 +1,4338 @@
+[
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 64,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 236,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 63,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 39,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 98,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 218,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 50,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 113,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 52,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 128,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 57,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 116,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 218,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 51,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 127,
+      "baseFriendship": 70,
+      "baseExp": 145,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 52,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 90,
+      "baseFriendship": 70,
+      "baseExp": 155,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 55,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 90,
+      "baseFriendship": 70,
+      "baseExp": 161,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 64,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 90,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 58,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 137,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 138,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 60,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 140,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 170,
+      "baseFriendship": 70,
+      "baseExp": 95,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 50,
+      "baseFriendship": 70,
+      "baseExp": 218,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 170,
+      "baseFriendship": 70,
+      "baseExp": 76,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 50,
+      "baseFriendship": 70,
+      "baseExp": 196,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 49,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 90,
+      "baseFriendship": 70,
+      "baseExp": 159,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 64,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 90,
+      "baseFriendship": 70,
+      "baseExp": 149,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 130,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 60,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 128,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 54,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 127,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 245,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 65,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 130,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 60,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 135,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 135,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 225,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 64,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 55,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 137,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 64,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 138,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 65,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 130,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 64,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 138,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 99,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 164,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 164,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 164,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 65,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 60,
+      "baseFriendship": 70,
+      "baseExp": 163,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 60,
+      "baseFriendship": 70,
+      "baseExp": 161,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 60,
+      "baseFriendship": 70,
+      "baseExp": 161,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 60,
+      "baseFriendship": 70,
+      "baseExp": 161,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 60,
+      "baseFriendship": 70,
+      "baseExp": 161,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 60,
+      "baseFriendship": 70,
+      "baseExp": 161,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 90,
+      "baseFriendship": 70,
+      "baseExp": 150,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+//100
+[
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 90,
+      "baseFriendship": 70,
+      "baseExp": 65,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 212,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 221,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 225,
+      "baseFriendship": 70,
+      "baseExp": 68,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 60,
+      "baseFriendship": 70,
+      "baseExp": 182,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 241,
+      "growthRate": "Medium Slow"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 180,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 220,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 70,
+      "baseExp": 306,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 70,
+      "baseExp": 306,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 199,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 193,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 187,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 220,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 220,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 220,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 220,
+      "growthRate": "Slow"
+    }
+  }
+]
+//151
+[
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 64,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 236,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 41,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 184,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 70,
+      "baseExp": 270,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 149,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 140,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 65,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 140,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 140,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 235,
+      "baseFriendship": 70,
+      "baseExp": 36,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 91,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 191,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 65,
+      "baseFriendship": 70,
+      "baseExp": 149,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 98,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 192,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 113,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 212,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 117,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 100,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 175,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 180,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 184,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 189,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 193,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 197,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 144,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 144,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 144,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 144,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 144,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 144,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 200,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 200,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 200,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 200,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 200,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 200,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 88,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 42,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 91,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 91,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 91,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 91,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 91,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 91,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 72,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 72,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 72,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 72,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 72,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 72,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 138,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 138,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 138,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 138,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 138,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 138,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 100,
+      "baseExp": 270,
+      "growthRate": "Medium Slow"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 62,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 141,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 62,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 62,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 40,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 40,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 44,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 50,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 56,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 126,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 57,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 126,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 128,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 59,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 127,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 60,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 126,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 128,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 180,
+      "baseFriendship": 70,
+      "baseExp": 47,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 180,
+      "baseFriendship": 70,
+      "baseExp": 47,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 180,
+      "baseFriendship": 70,
+      "baseExp": 47,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 180,
+      "baseFriendship": 70,
+      "baseExp": 47,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 87,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 85,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 85,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 85,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 85,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 85,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 85,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 85,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 85,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 85,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 151,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 151,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 151,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 151,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 151,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 151,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 25,
+      "baseFriendship": 70,
+      "baseExp": 216,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 85,
+      "growthRate": "Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 58,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 58,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 58,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 58,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 119,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 132,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 200,
+      "baseFriendship": 70,
+      "baseExp": 132,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 225,
+      "baseFriendship": 35,
+      "baseExp": 59,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 225,
+      "baseFriendship": 35,
+      "baseExp": 59,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 225,
+      "baseFriendship": 35,
+      "baseExp": 59,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 225,
+      "baseFriendship": 35,
+      "baseExp": 61,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 133,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 225,
+      "baseFriendship": 35,
+      "baseExp": 61,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 60,
+      "baseFriendship": 35,
+      "baseExp": 140,
+      "growthRate": "Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 60,
+      "baseFriendship": 35,
+      "baseExp": 140,
+      "growthRate": "Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 60,
+      "baseFriendship": 70,
+      "baseExp": 170,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 60,
+      "baseFriendship": 70,
+      "baseExp": 170,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 184,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 189,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 193,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 197,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 202,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 35,
+      "baseExp": 207,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 35,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 35,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 35,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 35,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 35,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 35,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 100,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 100,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 100,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 100,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 100,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 5,
+      "baseFriendship": 0,
+      "baseExp": 302,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 5,
+      "baseFriendship": 0,
+      "baseExp": 302,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 0,
+      "baseExp": 306,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 3,
+      "baseFriendship": 0,
+      "baseExp": 306,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 3,
+      "baseFriendship": 0,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 64,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 236,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 62,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 142,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 70,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 141,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 70,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 141,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 3 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 239,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 56,
+      "growthRate": "Medium Slow"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 232,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 56,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 137,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 234,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 56,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 137,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 234,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 58,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 137,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 234,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 60,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 137,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 234,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 137,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 234,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 70,
+      "baseExp": 61,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 137,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 234,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 190,
+      "baseFriendship": 0,
+      "baseExp": 70,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 60,
+      "baseFriendship": 0,
+      "baseExp": 168,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 0,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 70,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 140,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 70,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 140,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 70,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 140,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 70,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 140,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 68,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 120,
+      "baseFriendship": 70,
+      "baseExp": 144,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 255,
+      "baseFriendship": 70,
+      "baseExp": 68,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 57,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 184,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 275,
+      "growthRate": "Medium Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 184,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 184,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 184,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 184,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 75,
+      "baseFriendship": 70,
+      "baseExp": 66,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 45,
+      "baseFriendship": 70,
+      "baseExp": 184,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 243,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
+[
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 243,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 243,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 243,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 243,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 243,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 243,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 1 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 1 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 1 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 1 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 1 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 1 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Attack", "amount": 2 },
+      "catchRate": 3,
+      "baseFriendship": 0,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Attack", "amount": 2 },
+      "catchRate": 3,
+      "baseFriendship": 0,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Defense", "amount": 2 },
+      "catchRate": 3,
+      "baseFriendship": 0,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Speed", "amount": 2 },
+      "catchRate": 3,
+      "baseFriendship": 0,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 2 },
+      "catchRate": 3,
+      "baseFriendship": 0,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "Special Defense", "amount": 2 },
+      "catchRate": 3,
+      "baseFriendship": 0,
+      "baseExp": 270,
+      "growthRate": "Slow"
+    }
+  },
+  {
+    "training": {
+      "evYield": { "stat": "HP", "amount": 3 },
+      "catchRate": 30,
+      "baseFriendship": 70,
+      "baseExp": 240,
+      "growthRate": "Medium Fast"
+    }
+  }
+]
