@@ -2,39 +2,90 @@
 @tailwind components;
 @tailwind utilities;
 
- html {
+html {
       scroll-behavior: smooth;
-    }
+}
 
 :root {
-  --text: rgb(97, 97, 103);
-  --text-h: #08060d;
-  --bg: #fff;
-  --border: #e5e4e7;
-  --code-bg: #f4f3ec;
-  --accent: #aa3bff;
-  --accent-bg: rgba(170, 59, 255, 0.1);
-  --accent-border: rgba(170, 59, 255, 0.5);
-  --social-bg: rgba(244, 243, 236, 0.5);
-  --shadow:
-    rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
+      /* light mode: white and grays */
+      --text: #171717;
+      --text-strong: #000000;
+      --text-soft: #404040;
+      --text-muted: #525252;
+      --text-faint: #737373;
+      --border: #d4d4d4;
+      --surface-hover: #f5f5f5;
+      --btn-bg: #171717;
+      --btn-bg-hover: #404040;
+      --btn-text: #ffffff;
+      --border-strong: #a3a3a3;
+      --shadow: #d4d4d4;
+      --surface: #fafafa;
+      --code-key: #171717;
+      --code-string: #525252;
 
-  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --mono: ui-monospace, Consolas, monospace;
+      --card: #f5f5f5;
+      --card-hover: #e5e5e5;
+      --border-hover: #d4d4d480;
+      --media-bg: #e5e5e5;
 
+      --bg: #ffffff;
+      --bg-2: #f5f5f5;
+      --bg-3: #e5e5e5;
 
-  @media (max-width: 1024px) {
-    font-size: 16px;
-  }
+      --focus: #737373;
+      --accent-hover: #525252;
+      --tile-hover: #e5e5e5;
+      --notice-hover: #e5e5e5;
+      --accent: #06878e;
+      --ring: #17171766;
+      --download-bg: #d4d4d4;
+      --download-text: #171717;
+
+      color-scheme: light;
+}
+
+[data-theme="dark"] {
+      /* your current colors */
+      --text: #f5f5f4; /* stone-100 */
+      --text-strong: #ffffff; /* white */
+      --text-soft: #d6d3d1; /* stone-300 */
+      --text-muted: #a8a29e; /* stone-400 */
+      --text-faint: #78716c; /* stone-500 */
+      --border: #44403c; /* stone-700 */
+      --surface-hover: #292524; /* stone-800 */
+      --btn-bg: #f5f5f4; /* stone-100 */
+      --btn-bg-hover: #ffffff; /* white */
+      --btn-text: #1c1917; /* stone-900 */
+      --border-strong: #57534e; /* stone-600 */
+      --shadow: #44403c; /* stone-700 */
+
+      --card: #292524; /* stone-800 */
+      --card-hover: #44403c80; /* stone-700 at 50% */
+      --border-hover: #44403c80; /* stone-700 at 50% */
+      --media-bg: #e7e5e4; /* stone-200 */
+
+      --bg: #1c1917; /* stone-900 */
+      --bg-2: #292524; /* stone-800 */
+      --bg-3: #44403c; /* stone-700 */
+
+      --focus: #06b6d4; /* cyan-500 */
+      --accent-hover: #67e8f9; /* cyan-300 */
+      --tile-hover: #ffffff; /* white */
+      --notice-hover: #fef3c7bf; /* amber-100 at 75% */
+      --accent: #06b6d4; /* cyan-500 */
+      --ring: #a8a29e66; /* stone-400 at 40% */
+      --download-bg: #bfdbfe; /* blue-200 */
+      --download-text: #1c1917; /* stone-900 */
+
+      color-scheme: dark;
 }
 
 /* sa global CSS file mo */
 ::-webkit-scrollbar {
-  display: none;
+      display: none;
 }
 body {
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;     /* Firefox */
+      -ms-overflow-style: none; /* IE and Edge */
+      scrollbar-width: none; /* Firefox */
 }
-

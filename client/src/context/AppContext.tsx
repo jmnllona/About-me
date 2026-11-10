@@ -41,6 +41,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
 
     useEffect(() => {
         document.documentElement.classList.toggle("dark", theme === "dark");
+         document.documentElement.dataset.theme = theme;
 
         try {
             localStorage.setItem(THEME_KEY, theme);

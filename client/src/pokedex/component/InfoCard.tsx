@@ -6,7 +6,7 @@ import type { Pokemon } from "../types/pokemon";
 import { metersToFeet, kgToLbs } from "../utils/conversion";
 import { calculateStats } from "../utils/statsCalculator";
 import { usePokedexContext } from "../context/PokedexContext";
-import { StatBar, TotalStatBar, InfoRow, SectionTitle, TypeBadge } from "./index";
+import { StatBar, TotalStatBar, TypeBadge } from "./index";
 
 const getPokemonId = (id: number) => String(id).padStart(3, "0");
 
@@ -28,6 +28,25 @@ const STAT_CONFIG: {
       { key: "speed", label: "Speed" },
 ];
 
+export  function SectionTitle({ children }: { children: React.ReactNode }) {
+      return (  <header className=" flex items-center relative
+      "><h2 className=" text-lg font-semibold ml-4 px-2 bg-[color:var(--bg-2)] absolute">{children}</h2>
+      <span className=" border-b border-[color:var(--border)] flex-1"></span></header>
+
+    );
+}
+
+export function InfoRow({ label, children }: { label: string; children: React.ReactNode; width?: string }) {
+      return (
+            <div className={`grid grid-cols-[minmax(110px,130px)_1fr] `}>
+                  <span className="text-[color:var(--text-muted)]">{label}</span>
+                  <span>{children}</span>
+            </div>
+      );
+}
+
+
+
 export default function InfoCard({ pokemon }: { pokemon: Pokemon }) {
       const { getPokemon } = usePokedexContext();
 
@@ -45,8 +64,8 @@ export default function InfoCard({ pokemon }: { pokemon: Pokemon }) {
       const pokemonId = getPokemonId(pokemon.id);
 
       return (
-            <div className={`w-full max-w-6xl bg-stone-800 border border-stone-700  text-white  `}>
-                  <header className="flex gap-6 border-b border-stone-700 ">
+            <div className={`w-full max-w-6xl bg-[color:var(--bg-2)] border border-[color:var(--border)]  text-[color:var(--text-strong)]  `}>
+                  <header className="flex gap-6 border-b border-[color:var(--border)] ">
                         <h1 className="text-xl font-bold px-6 py-1">{pokemon.name}</h1>
                   </header>
 
@@ -67,7 +86,7 @@ export default function InfoCard({ pokemon }: { pokemon: Pokemon }) {
                                           <div className="absolute bottom-0 -right-10 flex items-center">
                                                 <button
                                                       onClick={() => setToggleShiny((prev) => !prev)}
-                                                      className="relative h-[24px] w-[24px] font-thin rounded-sm border border-stone-700 p-0.5">
+                                                      className="relative h-[24px] w-[24px] font-thin rounded-sm border border-[color:var(--border)] p-0.5">
                                                       <span className="absolute bottom-0.5 left-1 ">
                                                             {toggleShiny ? "☆" : "★"}
                                                       </span>
@@ -86,7 +105,7 @@ export default function InfoCard({ pokemon }: { pokemon: Pokemon }) {
                                     <InfoRow label="National №:">{pokemonId}</InfoRow>
 
                                     <div className="grid grid-cols-[minmax(110px,130px)_1fr] items-center">
-                                          <span className="text-stone-400">Type:</span>
+                                          <span className="text-[color:var(--text-muted)]">Type:</span>
 
                                           <div className="flex items-center gap-2">
                                                 {pokemon.types.map((type) => (
@@ -153,7 +172,7 @@ export default function InfoCard({ pokemon }: { pokemon: Pokemon }) {
                                           <div key={ability} className="mb-3">
                                                 <h3 className="mb-2">{ability}</h3>
 
-                                                <p className="rounded border border-stone-700 p-3">
+                                                <p className="rounded border border-[color:var(--border)] p-3">
                                                       {abilities[ability.replace(/\s/g, "")]}
                                                 </p>
                                           </div>
@@ -161,11 +180,11 @@ export default function InfoCard({ pokemon }: { pokemon: Pokemon }) {
 
                                     {pokemon.abilities.hidden && (
                                           <div>
-                                                <h3 className="mb-2 text-cyan-500">
+                                                <h3 className="mb-2 text-[color:var(--accent)]">
                                                       <span>Hidden:</span> <span>{pokemon.abilities.hidden}</span>
                                                 </h3>
 
-                                                <p className="rounded border border-stone-700 p-3">
+                                                <p className="rounded border border-[color:var(--border)] p-3">
                                                       {hiddenAbilities[pokemon.abilities.hidden.replace(/\s/g, "")]}
                                                 </p>
                                           </div>
@@ -230,7 +249,7 @@ export default function InfoCard({ pokemon }: { pokemon: Pokemon }) {
                                                                         <div className="flex flex-wrap items-center justify-center gap-2">
                                                                               <Link
                                                                                     to={`/pokedex/${currentPokemon.id}`}
-                                                                                    className="  text-stone-400 underline-offset-4 transition hover:underline hover:text-white">
+                                                                                    className="  text-[color:var(--text-muted)] underline-offset-4 transition hover:underline hover:text-[color:var(--text-strong)]">
                                                                                     {currentPokemon.name}
                                                                               </Link>
 
@@ -261,7 +280,7 @@ export default function InfoCard({ pokemon }: { pokemon: Pokemon }) {
                                                                   <div className="flex min-w-0 w-32 flex-wrap items-center justify-center gap-2 z-10">
                                                                         <Link
                                                                               to={`/pokedex/${currentPokemon.id}`}
-                                                                              className="  text-stone-400 underline-offset-4 transition hover:underline hover:text-white">
+                                                                              className="  text-[color:var(--text-muted)] underline-offset-4 transition hover:underline hover:text-[color:var(--text-strong)]">
                                                                               {currentPokemon.name}
                                                                         </Link>
 
@@ -280,3 +299,4 @@ export default function InfoCard({ pokemon }: { pokemon: Pokemon }) {
             </div>
       );
 }
+

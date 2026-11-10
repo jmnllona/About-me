@@ -82,7 +82,7 @@ export default function MusicPage() {
 
    
       return (
-            <div className="mx-auto flex max-w-4xl flex-col gap-8 p-2  text-white md:p-10">
+            <div className="mx-auto flex max-w-4xl flex-col gap-8 p-2  text-[color:var(--text-strong)] md:p-10">
                   {/* <header className="flex flex-col gap-3 border-b border-stone-700 pb-6">
                               <p className="text-xs font-medium uppercase tracking-widest text-stone-500">
                                     Personal Archive / 001
@@ -101,7 +101,7 @@ export default function MusicPage() {
                                     <h2 className="text-xl font-bold">Top artists</h2>
                               </div>
 
-                              <span className="shrink-0 text-xs text-stone-500">{topArtists.length} artists</span>
+                              <span className="shrink-0 text-xs text-[color:var(--text-faint)]">{topArtists.length} artists</span>
                         </div>
 
                         <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
@@ -120,8 +120,8 @@ export default function MusicPage() {
 
                                           <h3 className="mt-3 truncate font-semibold text-base">{artist.name}</h3>
 
-                                          <p className="text-xs text-stone-500">{artist.role}</p>
-                                          <div className="inset-0 scale-90 -z-10 rounded-md group-hover:scale-100 transition group-hover:bg-stone-800 absolute"></div>
+                                          <p className="text-xs text-[color:var(--text-faint)]">{artist.role}</p>
+                                          <div className="inset-0 scale-90 -z-10 rounded-md group-hover:scale-100 transition group-hover:bg-[color:var(--surface-hover)] absolute"></div>
                                     </a>
                               ))}
                         </div>
@@ -141,8 +141,8 @@ export default function MusicPage() {
                                           href={playlist.url}
                                           target="_blank"
                                           rel="noreferrer"
-                                          className="group border overflow-hidden border-stone-700 flex items-center gap-4 rounded-md bg-stone-800 pr-4 transition hover:border-stone-700/50 hover:bg-stone-700/50">
-                                          <div className="flex   h-16 w-16 shrink-0 items-center justify-center  bg-stone-200">
+                                          className="group border overflow-hidden border-[color:var(--border)] flex items-center gap-4 rounded-md bg-[color:var(--bg-2)] pr-4 transition hover:border-[color:var(--border-hover)] hover:bg-[color:var(--bg-2-hover)]">
+                                          <div className="flex   h-16 w-16 shrink-0 items-center justify-center  bg-[color:var(--media-bg)]">
                                                 <img
                                                       className="w-full h-full block object-cover"
                                                       src={playlist.symbol}
@@ -152,7 +152,7 @@ export default function MusicPage() {
 
                                           <div className="min-w-0 flex-1">
                                                 <h3 className="font-semibold mb-1 text-sm ">{playlist.title}</h3>
-                                                <p className="text-xs  tracking-wider text-stone-500">
+                                                <p className="text-xs  tracking-wider text-[color:var(--text-faint)]">
                                                       {playlist.lang} / {}
                                                 </p>
                                           </div>
@@ -165,7 +165,7 @@ export default function MusicPage() {
                         </div>
                   </section>
 
-                  <footer className="border-t border-stone-700 pt-4 text-xs text-stone-500">
+                  <footer className="border-t border-[color:var(--border)] pt-4 text-xs text-[color:var(--text-faint)]">
                         FOUR PLAYLISTS · ONE PERSONAL SOUNDTRACK
                   </footer>
             </div>

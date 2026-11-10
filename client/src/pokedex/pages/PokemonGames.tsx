@@ -152,7 +152,7 @@ function GameCard({
 
 export default function PokemonGames() {
   return (
-    <section className="mx-auto w-full max-w-6xl px-3 md:px-6 py-16">
+    <section className="mx-auto w-full  px-3 md:px-10 py-5">
       <Nav></Nav>
       {/* Header */}
       <div className="mb-8 mt-6 border-b border-stone-800 pb-6">

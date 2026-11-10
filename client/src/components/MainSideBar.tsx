@@ -14,16 +14,18 @@ import {
 
 import NavLink from "./NavLink";
 import { useAuth } from "../auth/AuthContext";
+import { useApp } from "../context/AppContext";
 
 export default function MainSidebar() {
       const [isHobbiesOpen, setIsHobbiesOpen] = useState(false);
       const [isGamesOpen, setIsGamesOpen] = useState(false);
       const { user, loading, logout } = useAuth();
+      const {isMenuOpen , toggleMenu} = useApp();
 
       const subLinkStyle = "flex items-center gap-1.5 rounded-lg px-2 py-1  hover:bg-stone-transition-colors";
 
       return (
-            <aside className="fixed left-0 top-0 hidden h-screen w-64 border-r border-stone-700 bg-stone-800 p-6 md:flex  ">
+            <aside className={`${ isMenuOpen ? "w-64 px-6   " : "w-0 px-0"}  fixed left-0 top-0 hidden overflow-hidden h-screen border-r py-6 border-[color:var(--border)] bg-[color:var(--card)]  md:flex z-40 `}>
                   <nav className="flex  flex-col gap-3 text-xs font-semibold mt-20 flex-1">
                         {/* Home */}
                         <NavLink to="/" className={subLinkStyle} end>
@@ -35,10 +37,10 @@ export default function MainSidebar() {
                         <div>
                               <div className="flex items-center">
                                     <button
-                                          className={`${subLinkStyle} text-stone-400 hover:text-white flex-1`}
+                                          className={`${subLinkStyle} text-[color:var(--text-muted)] hover:text-[color:var(--text-strong)] flex-1`}
                                           onClick={() => setIsHobbiesOpen(true)}>
                                           <Shapes size={15} strokeWidth={1.5} />
-                                          Hobbies
+                                           Hobbies
                                     </button>
 
                                     <button
@@ -46,18 +48,18 @@ export default function MainSidebar() {
                                           onClick={() => setIsHobbiesOpen((prev) => !prev)}
                                           aria-label={isHobbiesOpen ? "Close Hobbies menu" : "Open Hobbies menu"}
                                           aria-expanded={isHobbiesOpen}
-                                          className="rounded p-1 text-stone-400 hover:text-white">
+                                          className="rounded p-1 text-[color:var(--text-muted)] hover:text-[color:var(--text-strong)]">
                                           {isHobbiesOpen ? <ChevronDown size={16} /> : <ChevronRight size={16} />}
                                     </button>
                               </div>
 
                               {isHobbiesOpen && (
-                                    <div className="ml-3 mt-3 flex flex-col gap-2 border-l border-stone-600 pl-4 font-normal">
+                                    <div className="ml-3 mt-3 flex flex-col gap-2 border-l border-[color:var(--border-strong)] pl-4 font-normal">
                                           {/* Pokemon */}
                                           <div>
                                                 <div className="flex items-center">
                                                       <button
-                                                            className={`${subLinkStyle} text-stone-400 flex-1`}
+                                                            className={`${subLinkStyle} text-[color:var(--text-muted)] flex-1`}
                                                             onClick={() => setIsGamesOpen(true)}>
                                                             Games
                                                       </button>
@@ -69,7 +71,7 @@ export default function MainSidebar() {
                                                                   isGamesOpen ? "Close Games menu" : "Open Games menu"
                                                             }
                                                             aria-expanded={isGamesOpen}
-                                                            className="rounded p-1 text-stone-400 hover:text-white">
+                                                            className="rounded p-1 text-[color:var(--text-muted)] hover:text-[color:var(--text-strong)]">
                                                             {isGamesOpen ? (
                                                                   <ChevronDown size={16} />
                                                             ) : (
@@ -79,7 +81,7 @@ export default function MainSidebar() {
                                                 </div>
 
                                                 {isGamesOpen && (
-                                                      <div className="ml-3 mt-3 flex flex-col gap-2 border-l border-stone-600 pl-4">
+                                                      <div className="ml-3 mt-3 flex flex-col gap-2 border-l border-[color:var(--border-strong)] pl-4">
                                                             <NavLink
                                                                   to="/hobbies/games/pokedex"
                                                                   className={subLinkStyle}
@@ -90,7 +92,7 @@ export default function MainSidebar() {
                                                             <NavLink
                                                                   to="/hobbies/games/rusted-warfare"
                                                                   className={subLinkStyle}>
-                                                                  Rusted Warfare
+                                                                 <span className="truncate">Rusted Warfare</span> 
                                                             </NavLink>
 
                                                             
@@ -115,7 +117,7 @@ export default function MainSidebar() {
 
                         {/* Footer */}
                         <div className="mt-auto mb-3  ">
-                              <p className="mb-3 px-3 text-xs font-normal uppercase tracking-widest text-stone-500">
+                              <p className="mb-3 px-3 text-xs font-normal uppercase tracking-widest text-[color:var(--text-faint)]">
                                     Explore
                               </p>
 
@@ -123,13 +125,13 @@ export default function MainSidebar() {
                                     {!loading &&
                                           (user ? (
                                                 <>
-                                                      <p className="px-3 py-2 text-xs text-stone-400">
+                                                      <p className="px-3 py-2 text-xs text-[color:var(--text-muted)]">
                                                             Signed in as {user.username}
                                                       </p>
                                                       <button
                                                             type="button"
                                                             onClick={() => void logout()}
-                                                            className="rounded-lg px-3 py-2 text-left text-stone-400 hover:bg-stone-700 hover:text-stone-100">
+                                                            className="rounded-lg px-3 py-2 text-left text-[color:var(--text-muted)] hover:bg-[color:var(--item-hover)] hover:text-[color:var(--text)]">
                                                             Sign out
                                                       </button>
                                                 </>
@@ -153,17 +155,17 @@ export default function MainSidebar() {
                                           href="https://your-portfolio-url.com"
                                           target="_blank"
                                           rel="noreferrer"
-                                          className="flex items-center gap-1.5 rounded-lg px-3 py-2 text-stone-400 transition-colors hover:bg-stone-700 hover:text-stone-100">
+                                          className="flex items-center gap-1.5 rounded-lg px-3 py-2 text-[color:var(--text-muted)] transition-colors hover:bg-[color:var(--item-hover)] hover:text-[color:var(--text)]">
                                           <ExternalLink size={15} strokeWidth={1.5} />
                                           Portfolio
                                           <ArrowUpRight size={14} className="ml-auto" />
                                     </a>
 
                                     <a
-                                          href="https://github.com/your-username"
+                                          href="https://github.com/jmnllona"
                                           target="_blank"
                                           rel="noreferrer"
-                                          className="flex items-center gap-1.5 rounded-lg px-3 py-2 text-stone-400 transition-colors hover:bg-stone-700 hover:text-stone-100">
+                                          className="flex items-center gap-1.5 rounded-lg px-3 py-2 text-[color:var(--text-muted)] transition-colors hover:bg-[color:var(--item-hover)] hover:text-[color:var(--text)]">
                                           <Code2 size={15} strokeWidth={1.5} />
                                           GitHub
                                           <ArrowUpRight size={14} className="ml-auto" />

@@ -25,8 +25,8 @@ export default function ArtPage() {
             <>
                   <main className="mx-auto w-full max-w-6xl p-6  ">
                         <header className="mb-8">
-                              <h1 className="text-2xl font-semibold text-white">Art Gallery</h1>
-                              <p className="mt-2 text-sm text-stone-400">
+                              <h1 className="text-2xl font-semibold">Art Gallery</h1>
+                              <p className="mt-2 text-sm text-[color:var(--text-muted)]">
                                     A collection of digital art, traditional art, and experiments.
                               </p>
                         </header>

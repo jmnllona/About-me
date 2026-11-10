@@ -1,4 +1,3 @@
-
 import {
   NavLink as RouterNavLink,
   type NavLinkProps as RouterNavLinkProps,
@@ -17,10 +16,10 @@ export default function NavLink({
       {...props}
       
 className={({ isActive }) =>
-  `relative flex items-center gap-1.5 transition-colors ${
+  `relative flex items-center transition-colors ${
     isActive
-      ? "text-blue-300 before:absolute before:-left-2 before:h-1.5 before:w-1.5 before:rounded-full before:bg-blue-300"
-      : "text-stone-400 hover:text-stone-100"
+      ? "text-[color:var(--accent)] before:absolute before:-left-2 before:h-1.5 before:w-1.5 before:rounded-full before:bg-[color:var(--accent)]"
+      : "text-[color:var(--text-muted)] hover:text-[color:var(--text)]"
   } ${className}`
 }
 

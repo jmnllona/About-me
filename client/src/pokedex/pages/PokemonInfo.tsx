@@ -31,7 +31,7 @@ export default function PokemonInfoPage() {
                               {prevPokemon && (
                                     <Link
                                           to={`/hobbies/games/pokedex/${prevPokemon.id}`}
-                                          className="group mr-auto py-0.5 px-4 font-mono text-stone-400 transition  hover:text-white">
+                                          className="group mr-auto py-0.5 px-4 font-mono text-[color:var(--text-muted)] transition  hover:text-[color:var(--text-strong)]">
                                           {"◀ "}
                                           <span className="underline-offset-4 transition group-hover:underline">
                                                 {prevPokemon.name}
@@ -41,7 +41,7 @@ export default function PokemonInfoPage() {
                               {nextPokemon && (
                                     <Link
                                           to={`/hobbies/games/pokedex/${nextPokemon.id}`}
-                                          className="group ml-auto py-0.5 px-4 font-mono text-stone-400 transition  hover:text-white">
+                                          className="group ml-auto py-0.5 px-4 font-mono text-[color:var(--text-muted)] transition  hover:text-[color:var(--text-strong)]">
                                           <span className="underline-offset-4  group-hover:underline">
                                                 {nextPokemon.name}
                                           </span>{" "}
@@ -50,7 +50,7 @@ export default function PokemonInfoPage() {
                               )}
                               <Link
                                     to="/hobbies/games/pokedex"
-                                    className="py-0.5 px-4  border border-stone-700 bg-stone-800 text-white rounded">
+                                    className="py-0.5 px-4  border border-[color:var(--border)] bg-[color:var(--bg-2)] text-[color:var(--text-strong)] rounded">
                                     X
                               </Link>
                         </div>
